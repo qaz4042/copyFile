@@ -1,0 +1,32 @@
+{
+	"toPath":"C:/to",
+	"files":[
+		{
+			"from":"C:/Users/Administrator/.m2/repository/code/game-user/0.0.1-SNAPSHOT/game-user-0.0.1-SNAPSHOT.jar"
+		},
+		{
+			"from":"C:/Users/Administrator/.m2/repository/code/game-admin/0.0.1-SNAPSHOT/game-admin-0.0.1-SNAPSHOT.jar"
+		},
+		{
+			"from":"C:/Users/Administrator/.m2/repository/code/game-task/0.0.1-SNAPSHOT/game-task-0.0.1-SNAPSHOT.jar"
+		},
+		{
+			"from":"C:/Users/Administrator/.m2/repository/code/game-period/0.0.1-SNAPSHOT/game-period-0.0.1-SNAPSHOT.jar"
+		},
+		{
+			"from":"C:/Users/Administrator/.m2/repository/code/game-shop/0.0.1-SNAPSHOT/game-shop-0.0.1-SNAPSHOT.jar"
+		},
+		{
+			"from":"E:/game/ui-user/dist",
+			"type":"压缩拷贝",
+			"toName":"user.tar.gz",
+			"zipRoot":"ui-user"
+		},
+		{
+			"from":"E:/game/ui-admin/dist",
+			"type":"压缩拷贝",
+			"toName":"admin.tar.gz",
+			"zipRoot":"ui-admin"
+		}
+	]
+}
